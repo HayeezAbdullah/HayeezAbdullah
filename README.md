@@ -48,6 +48,8 @@
   A fast delivery and management system built for Deen Super, streamlining both online product orders and in-store billing.  
   [GitHub Repository](https://github.com/HayeezAbdullah/DeenTrack-System)
 
+  ![image alt](https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_1.png)
+
 ---
 
 ### 😏btw
