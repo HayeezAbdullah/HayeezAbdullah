@@ -50,6 +50,10 @@
 
   ![image alt](https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_1.png)
 
+  ![image alt](https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_2.png)
+
+  ![image alt](https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_3.png)
+
 ---
 
 ### 😏btw
