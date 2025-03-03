@@ -49,6 +49,8 @@
   [GitHub Repository](https://github.com/HayeezAbdullah/DeenTrack-System)
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=HayeezAbdullah&color=blue)
+---
 
 ### 😏btw
 I have a cat... meow meow!
