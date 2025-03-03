@@ -49,7 +49,9 @@
   [GitHub Repository](https://github.com/HayeezAbdullah/DeenTrack-System)
 
 ---
-![Profile Views](https://komarev.com/ghpvc/?username=HayeezAbdullah&color=blue)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=HayeezAbdullah&theme=radical)](https://git.io/streak-stats)
+
 ---
 
 ### 😏btw
