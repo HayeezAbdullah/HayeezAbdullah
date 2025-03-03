@@ -1,4 +1,4 @@
-# 🫂yo famm!, I'm Hayeez Abdullah
+# 🫂Yo famm!, I'm Hayeez Abdullah
 
 ## 🚀 Full Stack Developer | Researcher | Business Student
 
@@ -47,10 +47,6 @@
 - **DeenTrack-System**  
   A fast delivery and management system built for Deen Super, streamlining both online product orders and in-store billing.  
   [GitHub Repository](https://github.com/HayeezAbdullah/DeenTrack-System)
-
----
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=HayeezAbdullah&theme=radical)](https://git.io/streak-stats)
 
 ---
 
