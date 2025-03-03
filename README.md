@@ -48,12 +48,15 @@
   A fast delivery and management system built for Deen Super, streamlining both online product orders and in-store billing.  
   [GitHub Repository](https://github.com/HayeezAbdullah/DeenTrack-System)
 
-  ![image alt](https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_1.png)
-
  <div align="center">
-  <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_2.png" width="45%"/>
-  <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_3.png" width="45%"/>
+  <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_1.png" width="60%" style="margin-bottom: 10px;"/>
+
+  <div>
+    <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_2.png" width="45%" style="margin: 5px;"/>
+    <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_3.png" width="45%" style="margin: 5px;"/>
+  </div>
 </div>
+
 
 
 ---
