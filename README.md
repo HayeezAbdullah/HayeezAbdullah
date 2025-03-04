@@ -49,16 +49,22 @@
   [GitHub Repository](https://github.com/HayeezAbdullah/DeenTrack-System)
 
  <div align="center">
-  <p>Desktop View</p>
-  <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_1.png" width="60%" style="margin-bottom: 10px;"/>
+  <p><strong>Desktop View</strong></p>
+  <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_1.png" width="60%" style="margin-bottom: 20px; border-radius: 10px;"/>
 
-  <div>
-    <p>Mobile View</p>
-    <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_2.png" width="45%" style="margin: 5px;"/>
-    <p>Mobile View (Cart)</p>
-    <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_3.png" width="45%" style="margin: 5px;"/>
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <div align="center">
+      <p><strong>Mobile View</strong></p>
+      <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_2.png" width="45%" style="border-radius: 10px;"/>
+    </div>
+    
+  <div align="center">
+      <p><strong>Mobile View (Cart)</strong></p>
+      <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_3.png" width="45%" style="border-radius: 10px;"/>
+    </div>
   </div>
 </div>
+
 
 
 
