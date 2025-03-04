@@ -44,6 +44,14 @@
   A data tracking and analyzing system designed to monitor families in specific areas, student dropout rates, funding distributions, and categorize families based on needs.  
   [GitHub Repository](https://github.com/HayeezAbdullah/rizq_al_ihsaan)
 
+   <div align="center">
+  <img src="https://github.com/HayeezAbdullah/rizq_al_ihsaan/blob/e41fa19663f4f9fb4dc81e1c32dcfeb045065e0d/public/preview.gif" width="60%" style="margin-bottom: 10px;"/>
+   
+</div>
+    
+  </div>
+</div>
+
 - **DeenTrack-System**  
   A fast delivery and management system built for Deen Super, streamlining both online product orders and in-store billing.  
   [GitHub Repository](https://github.com/HayeezAbdullah/DeenTrack-System)
