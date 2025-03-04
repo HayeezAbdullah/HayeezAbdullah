@@ -53,17 +53,18 @@
   <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_1.png" width="60%" style="margin-bottom: 20px; border-radius: 10px;"/>
 
   <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <div align="center">
+    <div align="center" style="width: 30%;">
       <p><strong>Mobile View</strong></p>
-      <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_2.png" width="45%" style="border-radius: 10px;"/>
+      <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_2.png" width="100%" style="border-radius: 10px;"/>
     </div>
     
-  <div align="center">
+  <div align="center" style="width: 30%;">
       <p><strong>Mobile View (Cart)</strong></p>
-      <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_3.png" width="45%" style="border-radius: 10px;"/>
+      <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_3.png" width="100%" style="border-radius: 10px;"/>
     </div>
   </div>
 </div>
+
 
 
 
