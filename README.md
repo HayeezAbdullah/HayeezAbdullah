@@ -49,7 +49,6 @@
   [GitHub Repository](https://github.com/HayeezAbdullah/DeenTrack-System)
 
  <div align="center">
-  <p>Desktop View</p>
   <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/2851d7b53726a641ee4556480b7a91b0415668d5/public/preview.png" width="60%" style="margin-bottom: 10px;"/>
 </div>
     
