@@ -50,13 +50,13 @@
 
  <div align="center">
   <p>Desktop View</p>
-  <img src="ss_1.png" width="60%" style="margin-bottom: 10px;"/>
+  <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_1.png" width="60%" style="margin-bottom: 10px;"/>
 
   <div>
     <p>Mobile View</p>
-    <img src="ss_2.png" width="45%" style="margin: 5px;"/>
+    <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_2.png" width="45%" style="margin: 5px;"/>
     <p>Mobile View (Cart)</p>
-    <img src="ss_3.png" width="45%" style="margin: 5px;"/>
+    <img src="https://github.com/HayeezAbdullah/DeenTrack-System/blob/210db13d821931b1acf89a7f35b64319811c03fc/public/ss_3.png" width="45%" style="margin: 5px;"/>
   </div>
 </div>
 
