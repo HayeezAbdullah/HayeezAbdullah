@@ -1,6 +1,6 @@
 # 🫂Yo famm!, I'm Hayeez Abdullah
 
-## 🚀 Full Stack Developer | Researcher | Business Student
+## 🚀 Software Developer | Researcher | Business Student
 
 - 🔭 Currently working on **DeenTrack-System**: A delivery and management system built for a store, streamlining both online product orders and in-store billing with a desktop-based tracking system.
 - 🔥 Previously developed **Rizq Al Ihsaan**: A data tracking system monitoring family welfare, student dropouts, and funding distributions.
