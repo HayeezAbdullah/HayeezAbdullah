@@ -1,12 +1,12 @@
-# 🫂Yo famm!, I'm Hayeez Abdullah
+# Hayeez Abdullah
 
-## 🚀 Software Developer | Researcher
+## Software Developer | Researcher
 
-- 🔭 Currently working on **DeenTrack-System**: A delivery and management system built for a store, streamlining both online product orders and in-store billing with a desktop-based tracking system.
-- 🔥 Previously developed **Rizq Al Ihsaan**: A data tracking system monitoring family welfare, student dropouts, and funding distributions.
-- 🌱 Exploring & Doing studies on **Data Analysis** and **Artificial Intelligence**.
-- 💬 Let's chat about **JavaScript**, **Web Development**, or some **Business** theories.
-- 📫 Reach out to me at: **hayeezabdullah2k5@gmail.com**
+- Currently building **DeenTrack-System** — a store management and delivery system. Handles online orders, billing, and product tracking on desktop.
+- Previously built **Rizq Al Ihsaan** — tracks family welfare, student dropouts, and funding data.
+- Learning and researching **Data Analysis** and **Artificial Intelligence**.
+- Talk to me if it’s about **JavaScript**, **Web Development**, or **Business** concepts.
+- Contact: **hayeezabdullah2k5@gmail.com**
 
 ---
 
