@@ -1,11 +1,8 @@
 # Hayeez Abdullah
 
 ## Software Developer | Researcher
-
-- Currently building **DeenTrack-System** — a store management and delivery system. Handles online orders, billing, and product tracking on desktop.
-- Previously built **Rizq Al Ihsaan** — tracks family welfare, student dropouts, and funding data.
 - Learning and researching **Data Analysis** and **Artificial Intelligence**.
-- Talk to me if it’s about **JavaScript**, **Web Development**, or **Business** concepts.
+- Talk to me if it’s about **Technology**, **Data**, or **Business** concepts.
 - Contact: **hayeezabdullah2k5@gmail.com**
 
 ---
